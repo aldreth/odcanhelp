@@ -1,4 +1,4 @@
-baseURL = "http://odcanhelp.co.uk/"
+baseURL = "https://odcanhelp.co.uk/"
 languageCode = "en-uk"
 title = "My New Hugo Site"
 theme = "hugo_theme_robust"
